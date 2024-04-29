@@ -15,3 +15,11 @@ if __name__ == "__main__":
   numbers = (3,)
   print(numbers)
   print(type(numbers))
+
+  # Assigning a tuple
+
+  colors = ("red", "green", "blue")
+  print(colors)
+
+  colors = ("Cyan", "Magenta", "Yellow", "Black")
+  print(colors)
