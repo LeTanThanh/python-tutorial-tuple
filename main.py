@@ -9,3 +9,9 @@ if __name__ == "__main__":
 
   # rgb[0] = "yellow"
   # TypeError
+
+  # Defining a tuple that has one element
+
+  numbers = (3,)
+  print(numbers)
+  print(type(numbers))
